@@ -1,6 +1,6 @@
 # 日本の上場企業のデータを集め, 分析しています
 
-## [land_value_research](https://expgolemclone.github.io/land_value_research/docs/)
+## [land_value_research](https://github.com/expgolemclone/land_value_research)
 
 - 日本の上場企業が所有する東京の土地の含み益を求めるPipeline
 - [含み益/時価総額のランキング](https://expgolemclone.github.io/land_value_research/)
