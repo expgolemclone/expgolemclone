@@ -8,9 +8,9 @@
 ## [formula_screening](https://github.com/expgolemclone/formula_screening)
 
 - Pythonで条件指定できるスクリーナー
-- [`strategies/net_cash_fcf.py`の実行結果](https://expgolemclone.github.io/formula_screening/)
+- [`strategies/net_cash_fcf.py`](https://github.com/expgolemclone/formula_screening/blob/main/strategies/net_cash_fcf.py)の[実行結果](https://expgolemclone.github.io/formula_screening/)
 
 ## [invest_like_legends](https://github.com/expgolemclone/invest_like_legends)
 
 - 学ぶは真似ぶ
-- 何故これを買ってる? みたいなのもあって[legendsの考え](https://expgolemclone.github.io/invest_like_legends/)を読むのは難しい
+- 何故これを買ってる? みたいな企業もあって, [legendsの考え](https://expgolemclone.github.io/invest_like_legends/)を読むのは難しいと感じる
