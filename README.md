@@ -1,16 +1,16 @@
-# 日本の上場企業のデータを集め, 分析するプログラムを公開しています.
+# 日本の上場企業のデータを集め, 分析しています
 
 ## [land_value_research](https://github.com/expgolemclone/land_value_research)
 
-- 上場企業が所有する東京の土地の含み益を算出するプロジェクト
+- 日本の上場企業が所有する東京の土地の含み益を求めるPipeline
 - [含み益/時価総額のランキング](https://expgolemclone.github.io/land_value_research/data/ranking/ranking_market_cap_ratio.html)
 
 ## [formula_screening](https://github.com/expgolemclone/formula_screening)
 
-- 自作の日本株のスクリーナー
-- Forkしてお好みの条件でスクリーニングしてみて下さい
+- Pythonで条件指定できるスクリーナー
 - [`strategies/net_cash_fcf.py`の実行結果](https://expgolemclone.github.io/formula_screening/)
 
 ## [invest_like_legends](https://github.com/expgolemclone/invest_like_legends)
 
-- 何故これを買ってる? みたいなのもあって[legendsの考え](https://expgolemclone.github.io/invest_like_legends/)は読めないですね
+- 学ぶは真似ぶ
+- 何故これを買ってる? みたいなのもあって[legendsの考え](https://expgolemclone.github.io/invest_like_legends/)を読むのは難しい
