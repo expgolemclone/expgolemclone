@@ -13,4 +13,4 @@
 ## [invest_like_legends](https://github.com/expgolemclone/invest_like_legends)
 
 - 学ぶは真似ぶ
-- 何故これを買ってる? みたいな企業もあって, [legendsの考え](https://expgolemclone.github.io/invest_like_legends/)を読むのは難しいと感じる
+- [いつかは追いつき, 追い越したい](https://expgolemclone.github.io/invest_like_legends/)
