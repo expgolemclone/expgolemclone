@@ -3,7 +3,7 @@
 ## [land_value_research](https://expgolemclone.github.io/land_value_research/docs/)
 
 - 日本の上場企業が所有する東京の土地の含み益を求めるPipeline
-- [含み益/時価総額のランキング](https://expgolemclone.github.io/land_value_research/data/ranking/ranking_market_cap_ratio.html)
+- [含み益/時価総額のランキング](https://expgolemclone.github.io/land_value_research/)
 
 ## [formula_screening](https://github.com/expgolemclone/formula_screening)
 
