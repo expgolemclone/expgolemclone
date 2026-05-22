@@ -7,7 +7,7 @@
 
 ## [formula_screening](https://github.com/expgolemclone/formula_screening)
 
-- Pythonで条件指定できるスクリーナー
+- TOMLで条件指定できるスクリーナー
 - [実行結果](https://expgolemclone.github.io/formula_screening/)の一例
 
 ## [invest_like_legends](https://github.com/expgolemclone/invest_like_legends)
